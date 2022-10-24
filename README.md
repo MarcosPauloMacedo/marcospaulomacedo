@@ -53,8 +53,7 @@
 ![Open-zeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
 -->
 <div
-    style=
-    "border: 1.5px solid #ffffff;
+    style="border: 1.5px solid #ffffff;
      padding:0px 5px 0px 5px;
      background: #ffffff;
      display: flex;
