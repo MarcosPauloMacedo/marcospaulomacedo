@@ -59,9 +59,9 @@
      background: #ffffff;
      display: flex;
      justify-content: space-between;">
-        <img src="./imagens/truffle.png" alt="" style="width:35px ;">
-        <img src="./imagens/ganache.png" alt="" style="width:30px ;">
-        <img src="./imagens/remix.png" alt="" style="width:35px ;">
-        <img src="./imagens/atom.png" alt=""
+        <img src="https://user-images.githubusercontent.com/102096687/197602598-eace0005-6364-4f1f-9f0a-4b06c95a83cd.png" alt="" style="width:35px ;">
+        <img src="https://user-images.githubusercontent.com/102096687/197602309-f1e70b66-8ec3-4b08-a8bf-548351ced952.png" alt="" style="width:30px ;">
+        <img src="https://user-images.githubusercontent.com/102096687/197602466-1b0a58aa-d20f-47d9-9c4a-313ba8f44028.png" alt="" style="width:35px ;">
+        <img src="https://user-images.githubusercontent.com/102096687/197601025-dcad9e2f-ae82-4aa6-9666-a661e49f3de4.png" alt=""
         style="width:35px">
     </div>
