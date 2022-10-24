@@ -52,8 +52,7 @@
 ![wordpress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Open-zeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
 -->
-<div
-    style="border: 1.5px solid #ffffff;padding:0px 5px 0px 5px;background: #ffffff;display: flex;justify-content: space-between;">
+<div style="border: 1.5px solid #ffffff;padding:0px 5px 0px 5px;background: #ffffff;display: flex;justify-content: space-between;">
         <img src="https://user-images.githubusercontent.com/102096687/197602598-eace0005-6364-4f1f-9f0a-4b06c95a83cd.png" alt="" style="width:35px ;">
         <img src="https://user-images.githubusercontent.com/102096687/197602309-f1e70b66-8ec3-4b08-a8bf-548351ced952.png" alt="" style="width:30px ;">
         <img src="https://user-images.githubusercontent.com/102096687/197602466-1b0a58aa-d20f-47d9-9c4a-313ba8f44028.png" alt="" style="width:35px ;">
