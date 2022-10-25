@@ -37,10 +37,7 @@
 
 <br>
 
-<div style="display: flex;
-    margin-bottom: 10px;
-     justify-content: space-between;
-    ">
+<div>
     <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="html">
     <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="html">
     <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white" alt="html">
