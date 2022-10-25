@@ -42,7 +42,7 @@
      justify-content: space-between;
     ">
     <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="html">
-    <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="html">
+    <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="html"> 
     <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white" alt="html">
 </div>
 
@@ -56,4 +56,13 @@
   <img alt="remix" align="center"  height="40" width="40" src="https://user-images.githubusercontent.com/102096687/197690524-71ed389f-cca5-4558-8c4d-1057cda91ce6.png">
   <img align="center" alt="Yuri-BootStrap" height="35" width="40" src="https://user-images.githubusercontent.com/102096687/197691299-8a3c2f5a-74f1-41ef-ae6e-ec9b2b66fba1.png">
   <img align="center" alt="Yuri-Js" height="35" width="40" src="https://user-images.githubusercontent.com/102096687/197691490-87b4724b-46c0-443c-a13e-003c68c09daa.png">
+        <img alt="ganache" align="center" height="40" width="40" src="https://user-images.githubusercontent.com/102096687/197690875-b70bdc73-7ce4-4b3b-bdc3-41f692d3f726.png">
+  <img alt="remix" align="center"  height="40" width="40" src="https://user-images.githubusercontent.com/102096687/197690524-71ed389f-cca5-4558-8c4d-1057cda91ce6.png">
+  <img align="center" alt="Yuri-BootStrap" height="35" width="40" src="https://user-images.githubusercontent.com/102096687/197691299-8a3c2f5a-74f1-41ef-ae6e-ec9b2b66fba1.png">
+  <img align="center" alt="Yuri-Js" height="35" width="40" src="https://user-images.githubusercontent.com/102096687/197691490-87b4724b-46c0-443c-a13e-003c68c09daa.png">
 </div>
+
+<br>
+
+### PROJETO
+
