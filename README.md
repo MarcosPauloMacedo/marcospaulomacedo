@@ -51,14 +51,15 @@
 ![wordpress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Open-zeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
 -->
-<div style="border: 1.5px solid #ffffff;
-     padding:0px 5px 0px 5px;
-     background: #ffffff;
-     display: flex;
-     justify-content: space-between;">
-        <img src="./imagens/truffle.png" alt="" style="width:35px; border: 3px solid black">
-        <img src="./imagens/ganache.png" alt="" style="width:30px ;">
-        <img src="./imagens/remix.png" alt="" style="width:35px ;">
-        <img src="./imagens/atom.png" alt=""
-        style="width:35px">
-    </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://trufflesuite.com/img/truffle-logo-light.svg">
+  <img align="center" alt="Yuri-CSS" height="30" width="30" src="https://user-images.githubusercontent.com/102096687/197602466-1b0a58aa-d20f-47d9-9c4a-313ba8f44028.png">
+  <img align="center" alt="Yuri-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Yuri-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Yuri-Sql" height="30" width="40" src="https://atom.io/assets/index-portal-blue-50996d0762fb6d9ee13d6a52404dd01327fc542cc729777d532c9b633103c835.svg">
+  <img align="center" alt="Yuri-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Yuri-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Yuri-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Yuri-Cake" height="30" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg">
+</div>
