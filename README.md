@@ -1,4 +1,4 @@
-### E aí visitante? 🤙
+### E aí visitante?  🤙
 
 <br/>
 
@@ -51,14 +51,12 @@
 ![wordpress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Open-zeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
 -->
-<div
-    style=
-    "border: 1.5px solid #ffffff;
+<div style="border: 1.5px solid #ffffff;
      padding:0px 5px 0px 5px;
      background: #ffffff;
      display: flex;
      justify-content: space-between;">
-        <img src="./imagens/truffle.png" alt="" style="width:35px ;">
+        <img src="./imagens/truffle.png" alt="" style="width:35px; border: 3px solid black">
         <img src="./imagens/ganache.png" alt="" style="width:30px ;">
         <img src="./imagens/remix.png" alt="" style="width:35px ;">
         <img src="./imagens/atom.png" alt=""
