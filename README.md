@@ -37,8 +37,7 @@
 
 <br>
 
-<div style=
-    "display: flex;
+<div style="display: flex;
     margin-bottom: 10px;
      justify-content: space-between;
     ">
