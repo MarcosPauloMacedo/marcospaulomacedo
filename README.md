@@ -2,7 +2,7 @@
 
 <br/>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcos-paulo-macedo/) 
+[![linkedin](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://marcospaulomacedo.github.io/) 
 
 </br>
 
