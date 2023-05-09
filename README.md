@@ -1,4 +1,4 @@
-### E aí visitante?  🤙
+
 
 <br/>
 
