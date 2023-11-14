@@ -63,7 +63,7 @@ LEND CASH - Aplicação web criado para interagir com um smart contract da rede 
 WEB SITE - Web site criado para vendas de maquininhas de cartões.
 
 [![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MarcosPauloMacedo/vendaMaquininhas)
-[![site](https://img.shields.io/badge/Blogger-FF5722.svg?style=for-the-badge&logo=Blogger&logoColor=white)]([https://lendcash.com.br/cartao](https://marcospaulomacedo.github.io/vendaMaquininhas/)
+[![site](https://img.shields.io/badge/Blogger-FF5722.svg?style=for-the-badge&logo=Blogger&logoColor=white)]([https://lendcash.com.br/cartao](https://marcospaulomacedo.github.io/vendaMaquininhas/))
 
 CNAE WEB - Web site criado para buscar informações de contabilidade
 
