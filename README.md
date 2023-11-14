@@ -35,7 +35,6 @@
 <div>
      <img alt="web3.js" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="html">
      <img alt="cakePHP" src="https://img.shields.io/badge/CakePHP-D33C43.svg?style=for-the-badge&logo=CakePHP&logoColor=white" alt="javascript">
-     <img alt="openzeppelin" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="html">
      <img alt="next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
      <img alt="spring boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white">
 </div>
