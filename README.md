@@ -18,7 +18,7 @@
         <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
         <img alt="solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="javascript">
         <img alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="javascript">
-        <img alt="c" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="javascript">
+        <img alt="c" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP">
         
 </div>
 
@@ -33,9 +33,11 @@
 <br>
 
 <div>
-    <img alt="web3.js" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="html">
+     <img alt="web3.js" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="html">
      <img alt="cakePHP" src="https://img.shields.io/badge/CakePHP-D33C43.svg?style=for-the-badge&logo=CakePHP&logoColor=white" alt="javascript">
-    <img alt="openzeppelin" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white" alt="html">
+     <img alt="openzeppelin" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="html">
+     <img alt="next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
+     <img alt="spring boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white">
 </div>
 
 <div style="display: inline_block"><br>
@@ -45,8 +47,9 @@
   <img alt="vscode" align="center" height="35" width="40" src="https://user-images.githubusercontent.com/102096687/197691490-87b4724b-46c0-443c-a13e-003c68c09daa.png">
   <img alt="node.js" align="center" height="40" width="40" src="https://user-images.githubusercontent.com/102096687/197842042-2b4ecb5d-cba2-4945-a9ad-fe36b54ff541.png">
   <img alt="git-bash" align="center"  height="35" width="40" src="https://user-images.githubusercontent.com/102096687/197838660-ea30e95e-d793-4e4a-ac98-4fab67d59709.png">
-  <img alt="wordpress" align="center" height="35" width="40" src="https://skillicons.dev/icons?i=wordpress&theme=light">
+  <img alt="next.js" align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
   <img alt="mysql" align="center" height="35" width="40" src="https://skillicons.dev/icons?i=mysql&theme=light">
+</svg>
 </div>
 
 <br>
